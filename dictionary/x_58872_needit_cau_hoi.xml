@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="cau_hoi" max_length="40" name="x_58872_needit_cau_hoi" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cau Hoi ?" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>
